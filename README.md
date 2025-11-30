@@ -35,8 +35,3 @@ Identifier les polluants les plus déterminants
 Formuler des recommandations environnementales
 
 ---
-
-
-Documentation Scikit-learn
-
-OpenAQ / WHO Air Quality Database
